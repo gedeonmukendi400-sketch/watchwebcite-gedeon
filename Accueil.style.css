@@ -1,0 +1,107 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* page d'accueil */
+header {
+    background: rgb(121, 38, 38);
+    color: white;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 530px;
+    margin: auto;
+    border-radius:10px ;
+}
+header :hover{
+    cursor: pointer;
+    transition:ease-in-out 0.3s;
+}
+/* TRAVIL B */
+
+.B{
+    width: 80%;
+    height: 90px;
+    
+    margin-top: -500px;
+    margin-left: 80px;
+    display: flex;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    margin-top: 10px;
+}
+
+header ul li {
+    margin: 0 15px;
+}
+
+header ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+}
+header ul li a:hover{
+    color: gold;
+    text-decoration: underline;
+    transition: 0.5s ease;
+    
+}
+/* TRAVIL A */
+
+.A{
+width: 100%;
+height: 85vh;
+background-image: url(/images/Montre\ de\ luxe\ sur\ cuir\ et\ bois.png);
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+/* TRAVAIL C */
+.C{
+    margin-left: 145PX;
+    padding: 30px;}
+
+/* } TRAVAIL D */
+.D{
+    margin-left: 145PX;
+    padding: 30px;
+margin-top: 80px; }
+    .D{
+        display: flex;
+    }
+    .D1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: oblique;
+    }
+    .d1{
+        margin-right: 100px;
+    }
+    .d2{
+        margin-left: 100px;
+    }.d3{
+        margin-left: 100px;
+    }
+    .dh1{
+        margin-left: 130px;
+    }
+    .dh2{
+        margin-left: 170px;
+    } 
+    .dh3{
+        margin-left: 190px;
+    }

@@ -1,0 +1,51 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* page d'accueil */
+header {
+ background: rgb(121, 38, 38);
+ width: 100%;
+ height: 100vh;
+ background-image: url(/images/Montre\ de\ luxe\ en\ gros\ plan.png);
+}
+
+* header :hover{
+    cursor: pointer;
+    transition:ease-in-out 0.3s; 
+}
+.A{ text-align: center;
+    color: rgb(252, 250, 250);
+
+}
+.b1{
+    border-radius: 5px;
+}
+.b2{
+    margin-left:-60px;
+    border-radius: 5px;
+}
+.B ul{
+display: flex;
+gap: 60px;
+text-align: center;
+margin-left: 500px;
+}
+.m { display: flex;
+    width: 100%;
+    height: 200px;}
+    .A1{
+        font-size: 30PX;
+        font-weight: 100;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        list-style: none;
+    }
+    
+.A1 li a{
+    text-decoration: none;
+    color: white
+}
